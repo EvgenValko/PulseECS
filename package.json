@@ -1,0 +1,19 @@
+{
+  "name": "com.pulse.ecs",
+  "displayName": "Pulse ECS",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "Deterministic network-ready ECS framework with client prediction, rollback, change tracking, interest management and JSON world persistence.",
+  "keywords": ["ecs", "networking", "prediction", "rollback"],
+  "author": {
+    "name": "Pulse",
+    "email": "support@pulse.ecs"
+  },
+  "samples": [
+    {
+      "displayName": "Getting Started",
+      "description": "Minimal setup for PulseECS world creation and simulation.",
+      "path": "Samples~/GettingStarted"
+    }
+  ]
+}
